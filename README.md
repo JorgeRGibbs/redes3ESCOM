@@ -1,4 +1,3 @@
-# Redes 3 ESCOM - IPN
-Administración de servicios en red ESCOM IPN
-
-Sistema de monitoreo y administración de red.
+# Networks 3 ESCOM - IPN
+Services Administration in Computer Networks
+Network Management System
